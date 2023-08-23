@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
+title: "Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model"
+=======
 title: "testing"
+>>>>>>> 345a2cda2d7c551bf3fd08ab2237b5a509da0cd5
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
