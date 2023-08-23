@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, FUTA, 2018
-* M.S. in Mathematics, AIMS 2020
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Statistics, Federal University of Technology Akure (FUTA), Nigeria, 2018
+* M.Sc. in Mathematics, African Institue for Mathematical Sciences (AIMS), Rwanda, 2020
+* Ph.D in Statistics, University of Edinburgh, United Kingdom, 2024 (expected)
 
 Work experience
 ======
