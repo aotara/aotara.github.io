@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, FUTA, 2017
-* M.S. in Jekyll, GitHub University, 2014
+* B.S. in Statistics, FUTA, 2018
+* M.S. in Mathematics, AIMS 2020
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
