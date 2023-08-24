@@ -6,6 +6,7 @@ excerpt: 'Pre-print'
 date: 2021
 venue: 'Research Square'
 paperurl: ''
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Akeresola, R.A., Gayawan, E. (2021). "Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model" '
 ---
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: **Akeresola, R.A.**, Gayawan, E. (2021). "Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model" 
+
