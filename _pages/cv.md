@@ -12,5 +12,5 @@ redirect_from:
 
 You can download my CV here:
 
-[Download CV (PDF)](/files/CV.pdf)
+[Download CV (PDF)](files/CV.pdf)
 
