@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+CV
 ======
-* B.Tech. in Statistics, Federal University of Technology Akure (FUTA), Nigeria, 2018
-* M.Sc. in Mathematics, African Institue for Mathematical Sciences (AIMS), Rwanda, 2020
-* Ph.D in Statistics, University of Edinburgh, United Kingdom, 2024 (expected)
+You can download my CV here:
+
+[Download CV (PDF)](/files/CV.pdf)
 
 Work experience
 ======
