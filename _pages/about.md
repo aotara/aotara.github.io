@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a recent PhD graduate in Statistics held jointly from the University of Edinburgh and Heriot-Watt University and in close collaboration with [Biomathematic and Statistics Scotland (BioSS)](https://www.bioss.ac.uk/people/rakeresola).  My PhD focusing on animal movement modelling for behavioural and ecological inference was completed through [MAC-MIGS CDT EPSRC-funded PhD studentship](https://www.mac-migs.ac.uk/people/#students) and supervised by [Prof Victor Elvira](https://victorelvira.github.io/index.html). Before my PhD, I completed my Masters in Mathematical Sciences at the [African Institute for Mathematical Sciences, Rwanda](https://aims.ac.rw/) under the supervision of [Dr. Gayawan Ezra](https://scholar.google.com/citations?user=p7fuaooAAAAJ&hl=en).
+I recently completed my PhD in Statistics jointly from the University of Edinburgh and Heriot-Watt University and in close collaboration with [Biomathematic and Statistics Scotland (BioSS)](https://www.bioss.ac.uk/people/rakeresola).  My PhD focusing on animal movement modelling for behavioural and ecological inference was completed through [MAC-MIGS CDT EPSRC-funded PhD studentship](https://www.mac-migs.ac.uk/people/#students) and supervised by [Prof Victor Elvira](https://victorelvira.github.io/index.html). Before my PhD, I completed my Masters in Mathematical Sciences at the [African Institute for Mathematical Sciences, Rwanda](https://aims.ac.rw/) under the supervision of [Dr. Gayawan Ezra](https://scholar.google.com/citations?user=p7fuaooAAAAJ&hl=en).
 
 
 
