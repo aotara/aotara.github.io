@@ -16,7 +16,13 @@ I am a recent PhD graduate in Statistics held jointly from the University of Edi
 
 Research Interest
 ======
-I am an emerging researcher with an international academic background and interdisciplinary collaboration. My work sits at the interface of statistics, ecology, and environmental decision-making, translating complex movement data into behavioural inference that informs biodiversity conservation and marine spatial planning. My research interests revolves around movement ecology, spatial statistics and hidden Markov models applied to animal movement data and environmental data.
+I am an emerging researcher with an international academic background and interdisciplinary collaboration. My work sits at the interface of statistics, ecology, and environmental decision-making, translating complex movement data into behavioural inference that informs biodiversity conservation and marine spatial planning. My research interests includes:
+
+1. Seabird movement ecology
+2. Analysis of animal telemetry data
+3. Hidden Markov models and their aplication to animal movement data
+4. Bayesian inference
+5. Spatial statistics 
 
 
 Getting started
