@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,18 +10,14 @@ redirect_from:
 
 About me
 ======
-I am a recent PhD graduate in Statistics held jointly from the University of Edinburgh and Heriot-Watt University. My PhD was also in close collaboration with [Biomathematic and Statistics Scotland (BioSS)](https://www.bioss.ac.uk/people/rakeresola).  My PhD focusing on animal movement modelling for behavioural and ecological inference was completed through [MAC-MIGS CDT EPSRC-funded PhD studentship](https://www.mac-migs.ac.uk/people/#students) and supervised by [Prof Victor Elvira](https://victorelvira.github.io/index.html). Before my PhD, I completed my Masters in Mathematical Sciences at the [African Institute for MAthematical Sciences, Rwanda](https://aims.ac.rw/) under the supervision of [Dr. Gayawan Ezra](https://scholar.google.com/citations?user=p7fuaooAAAAJ&hl=en).
+I am a recent PhD graduate in Statistics held jointly from the University of Edinburgh and Heriot-Watt University and in close collaboration with [Biomathematic and Statistics Scotland (BioSS)](https://www.bioss.ac.uk/people/rakeresola).  My PhD focusing on animal movement modelling for behavioural and ecological inference was completed through [MAC-MIGS CDT EPSRC-funded PhD studentship](https://www.mac-migs.ac.uk/people/#students) and supervised by [Prof Victor Elvira](https://victorelvira.github.io/index.html). Before my PhD, I completed my Masters in Mathematical Sciences at the [African Institute for Mathematical Sciences, Rwanda](https://aims.ac.rw/) under the supervision of [Dr. Gayawan Ezra](https://scholar.google.com/citations?user=p7fuaooAAAAJ&hl=en).
 
-I am an emerging researcher with an international academic background and interdisciplinary collaboration. My work sits at the interface of statistics, ecology, and environmental decision-making, translating complex movement data into behavioural inference that informs biodiversity conservation and marine spatial planning. 
+
 
 Research Interest
 ======
-My research interests revolves around movement ecology, spatial statistics and
-hidden Markov models applied to animal movement data and environmental data.
+I am an emerging researcher with an international academic background and interdisciplinary collaboration. My work sits at the interface of statistics, ecology, and environmental decision-making, translating complex movement data into behavioural inference that informs biodiversity conservation and marine spatial planning. My research interests revolves around movement ecology, spatial statistics and hidden Markov models applied to animal movement data and environmental data.
 
-, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
