@@ -26,6 +26,4 @@ I am an emerging researcher with an international academic background and interd
 
 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
