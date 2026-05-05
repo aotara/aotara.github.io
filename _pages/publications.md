@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.co.uk/citations?user=E1KepzMAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-You can also find my articles on my Google my Google Scholar profile
+You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?user=E1KepzMAAAAJ&hl=en)
 
 Journal Article
 ======
