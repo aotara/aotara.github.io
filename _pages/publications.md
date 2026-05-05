@@ -21,6 +21,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
   **Akeresola, R.A.**, Gayawan, E. (2020). "Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model"  <i>GeoJournal</i>. 85
 
+  ### <span style="color:rgb(199, 21, 133)">Theses:</span>
+  [1] **Akeresola, R. A.** , (2025). Modelling animal movement for behavioural inference. <i>PhD Thesis</i>, University of Edinburgh.
+
+  [2] **Akeresola, R. A.** , (2020). Bayesian Spatio-temporal analysis of greenhouse gas emissions in Africa. <i>MSc Thesis</i>, AIMS-Rwanda.
+
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
