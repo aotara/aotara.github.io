@@ -13,6 +13,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ### <span style="color:rgb(199, 21, 133)">Journal Articles:</span>
 
+Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model[Download](http://aotara.github.io/files/Publication1.pdf)
+
+Recommended citation: **Akeresola, R.A.**, Gayawan, E. (2020). "Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model"  <i>GeoJournal</i>. 85.
+
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
