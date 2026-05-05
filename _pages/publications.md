@@ -25,11 +25,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   
   
   [1] **Akeresola, R. A.** (2025). Modelling animal movement for behavioural inference. <i>PhD Thesis</i>, University of Edinburgh. 
-       [Thesis](files/finalphdthesis.pdf) | [Slides](files/vivaslide.pdf) 
+       [Thesis](http://aotara.github.io/files/finalphdthesis.pdf) [Slides](http://aotara.github.io/files/vivaslide.pdf) 
 
   [2] **Akeresola, R. A.** (2020). Bayesian Spatio-temporal analysis of greenhouse gas emissions in Africa. <i>MSc Thesis</i>, AIMS-Rwanda.
-  
-  [Thesis](files/MScthesis.pdf)
+      [Thesis](http://aotara.github.io/files/MScthesis.pdf)
 
 
 {% include base_path %}
