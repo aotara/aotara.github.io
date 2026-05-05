@@ -11,8 +11,7 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?user=E1KepzMAAAAJ&hl=en)
 
-Journal Article
-======
+### <span style="color:rgb(199, 21, 133)">Journal Articles:</span>
 
 {% include base_path %}
 
