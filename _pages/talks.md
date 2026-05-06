@@ -25,4 +25,4 @@ author_profile: true
 [T12] **MAC-MIGS CDT Residential Symposium Speed Talk** (May 2022), Millport, Isle of Cumbrae<br />
 
 ### <span style="color:rgb(199, 21, 133)">Poster presentation:</span>
-[T1] **Centre for Statistics PhD Student Day** (June 2023), Edinburgh<br />
+[T1] **Centre for Statistics PhD Student Day** [Poster](http://aotara.github.io/files/CfSPoster.pdf) (June 2023), Edinburgh<br />
