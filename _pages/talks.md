@@ -7,14 +7,14 @@ author_profile: true
 
 
 ### <span style="color:rgb(199, 21, 133)">Invited Talks:</span>
-[T1] **Young Statisticians’ Section of the Irish Statistical Association** (July 2025)<br />
+[T1] [**Young Statisticians’ Section of the Irish Statistical Association**](https://young-istat.github.io/events/posts/2025-04-10-weinar_statistical_ecology/) (July 2025) [Video](https://www.youtube.com/watch?v=5QIx1qftavs&list=PL5KQu-yxKB8BxS1X_VImQdKySIz9SM98u&index=1)<br />
 [T2] **Joint Nature Conservation Committee (JNCC),** (July 2023), Edinburgh<br />
 
 ### <span style="color:rgb(199, 21, 133)">Presentation Talks:</span>
 [T1] **International Statistical Ecology Conference (ISEC 2024)** (July 2024), Swansea<br />
 [T2] **MAC-MIGS CDT Residential Symposium Speed Talk** (May 2024), Edinburgh<br />
-[T3] **Mathematical Biology Research Group Seminar** (March 2024), Edinburgh<br />
-[T4] **The Scottish Environment Food and Agriculture Research Institute (SEFARI) Postgraduate Research Showcase** (November 2023), Edinburgh<br />
+[T3] **Mathematical Biology Research Group Seminar** (April 2024), Edinburgh<br />
+[T4] **The Scottish Environment Food and Agriculture Research Institute (SEFARI) Postgraduate Research Showcase** (October 2023), Edinburgh<br />
 [T5] **Biomathematics and Statistics Scotland (BioSS) Annual General Meeting** (November 2023), Edinburgh<br />
 [T6] **National Centre for Statistical Ecology (NCSE) Summer Meeting** (June 2023) Swansea<br />
 [T7] **MAC-MIGS CDT Residential Symposium Speed Talk** (May 2023), Millport, Isle of Cumbrae<br />
