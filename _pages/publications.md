@@ -18,6 +18,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
    **Akeresola, R. A.**, Butler, A., Jones, E. L., King, R., Elvira, V., Black, J., & Robertson, G. (2024). Validating hidden Markov models for seabird behavioural inference. <i>Ecology and Evolution</i>, 14, e11116. 
    
    [BibTeX](http://aotara.github.io/files/hmm.txt) | [Code](https://github.com/aotara/Validating-HMMs-project)
+   
 
 [2] [Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model](http://aotara.github.io/files/Publication1.pdf) 
 
