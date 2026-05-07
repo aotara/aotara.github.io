@@ -11,6 +11,7 @@ bibtexurl: 'https://aotara.github.io/files/hmm.txt'
 citation: '**Akeresola, R.A.**, Gayawan, E. (2021). "Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model" <i>GeoJournal</i>. 85'
 ---
 
+Recommended citstion: '**Akeresola, R.A.**, Gayawan, E. (2021). "Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model"
 
 
 
