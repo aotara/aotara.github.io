@@ -13,11 +13,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ### <span style="color:rgb(199, 21, 133)">Journal Articles:</span>
 
-[1] [Validating hidden Markov models for seabird behavioural inference](https://doi.org/10.1002/ece3.11116) [code](https://github.com/aotara/Validating-HMMs-project)
+[1] [Validating hidden Markov models for seabird behavioural inference](https://doi.org/10.1002/ece3.11116) [Code](https://github.com/aotara/Validating-HMMs-project)
 
    **Akeresola, R. A.**, Butler, A., Jones, E. L., King, R., Elvira, V., Black, J., & Robertson, G. (2024). Validating hidden Markov models for seabird behavioural inference. <i>Ecology and Evolution</i>, 14, e11116. 
 
-[2] Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model [Download paper here](http://aotara.github.io/files/Publication1.pdf)
+[2] [Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model](http://aotara.github.io/files/Publication1.pdf)
 
   **Akeresola, R.A.**, Gayawan, E. (2020). Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model.  <i>GeoJournal</i>. 85
 
