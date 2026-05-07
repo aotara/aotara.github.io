@@ -1,7 +1,7 @@
 ---
 title: ""
 collection: publications
-permalink: /publication/preprint11
+permalink: /publication/
 excerpt: ''
 date: 
 venue: ''
