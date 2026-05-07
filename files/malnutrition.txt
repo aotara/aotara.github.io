@@ -1,0 +1,12 @@
+@article{akeresola2020,
+  title = {Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model},
+  author = {Rebecca A. Akeresola and Ezra Gayawan},
+  journal = {GeoJournal},
+  year = {2020},
+  volume = {85},
+  number = {1},
+  pages = {81--92},
+  isbn = {1572-9893},
+  doi = {10.1007/s10708-018-9958-0},
+  url = {https://doi.org/10.1007/s10708-018-9958-0}
+}
