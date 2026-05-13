@@ -19,10 +19,10 @@ Here is a list of attended advanced training in Statistics and Animal Movement M
             
 ## <span style="color:rgb(199, 21, 133)">Workshops</span>
 
-[1] **GAMs for Analyzing Animal Movement Data**, International Statistical Ecology Conference (Jul. 2024)<br>
-[2] **Continuous-time Modelling of Animal Capture-Recapture Data**, University of Edinburgh (Dec. 2023)<br>
-[3] **HMMs for Analyzing Animal Movement Data and Other Ecological Data**, International Statistical Ecology Conference (Jun. 2022)<br>
-[4] **Hierarchical Modelling With Nimble**, International Statistical Ecology Conference (Jun. 2022) 
+[1] **GAMs for Analyzing Animal Movement Data**, International Statistical Ecology Conference (ISEC 2024)<br>
+[2] **Continuous-Time Modelling of Animal Capture-Recapture Data**, University of Edinburgh (Dec. 2023)<br>
+[3] **HMMs for Analyzing Animal Movement Data and Other Ecological Data**, International Statistical Ecology Conference (ISEC 2022)<br>
+[4] **Hierarchical Modelling With Nimble**, International Statistical Ecology Conference (ISEC 2022) 
 
 ## <span style="color:rgb(199, 21, 133)">Summer School</span>
 
