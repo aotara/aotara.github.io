@@ -5,7 +5,7 @@ permalink: /collaborators/
 author_profile: true
 ---
 
-{% include base_path %}
+### <span style="color:rgb(199, 21, 133)">PhD Supervisors:</span>
 
 
 You can download my CV here:
