@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
+Collection of invited talks and selected presentations delivered at conferences, seminars, symposiums, and annual general meetings.
 
 ### <span style="color:rgb(199, 21, 133)">Invited Talks:</span>
 [T1] [**Young Statisticians’ Section of the Irish Statistical Association**](https://young-istat.github.io/events/posts/2025-04-10-weinar_statistical_ecology/) (July 2025) [Video](https://www.youtube.com/watch?v=5QIx1qftavs&list=PL5KQu-yxKB8BxS1X_VImQdKySIz9SM98u&index=1)<br />
