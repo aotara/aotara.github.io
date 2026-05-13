@@ -4,7 +4,7 @@ permalink: /training/
 author_profile: true
 ---
 
-Here is a list of attended advanced training in Statistics and Animal Movement Modelling through courses, workshops and summer school
+Attendance and active participation in advanced training courses, workshops, and summer schools in Statistics and Animal Movement Modelling.
 
 ## <span style="color:rgb(199, 21, 133)">Academy for PhD Training in Statistics</span> [(APTS Courses)](https://warwick.ac.uk/fac/sci/statistics/apts/)
 
