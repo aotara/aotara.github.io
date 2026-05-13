@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?user=E1KepzMAAAAJ&hl=en)
 
-### <span style="color:rgb(199, 21, 133)">Journal Articles:</span>
+## <span style="color:rgb(199, 21, 133)">Journal Articles</span>
 
 [1] [Validating hidden Markov models for seabird behavioural inference](https://doi.org/10.1002/ece3.11116)
 
@@ -18,7 +18,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   **Akeresola, R.A.**, Gayawan, E. (2020). Analysis of the spatial patterns of malnutrition among women in Nigeria with a Bayesian structured additive model.  <i>GeoJournal</i>. 85. 
    [BibTeX](http://aotara.github.io/files/malnutrition.txt)
 
-### <span style="color:rgb(199, 21, 133)">Theses:</span>
+## <span style="color:rgb(199, 21, 133)">Theses</span>
   
   [1] **Akeresola, R. A.** (2025). Modelling animal movement for behavioural inference. <i>PhD Thesis</i>, University of Edinburgh. 
        [Thesis](http://aotara.github.io/files/finalphdthesis.pdf) | [Slides](http://aotara.github.io/files/vivaslide.pdf) 
