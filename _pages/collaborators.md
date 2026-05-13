@@ -16,8 +16,9 @@ author_profile: true
   * [Dr Esther Jones](https://www.bioss.ac.uk/people/ejones)
     
 * School of Mathematics, Heriot-Watt University
-* [Prof Andy White](https://www.macs.hw.ac.uk/~awhite/)
+  * [Prof Andy White](https://www.macs.hw.ac.uk/~awhite/)
 
 ## MSc & Undergraduate Supervisor
 
-* [Dr Ezra Gayawan](https://www.researchgate.net/profile/Ezra-Gayawan)
+* Department of Statistics, Federal University of Technology, Akure
+  * [Dr Ezra Gayawan](https://www.researchgate.net/profile/Ezra-Gayawan)
