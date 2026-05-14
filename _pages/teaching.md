@@ -84,7 +84,7 @@ author_profile: true
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Bayesian Data Analysis, Biomedical Data Science, Incomplete Data Analysis(MSc)
+	    	Bayesian Data Analysis, Biomedical Data Science, Incomplete Data Analysis (MSc)
 	    </div>
 	</div>		
 	
