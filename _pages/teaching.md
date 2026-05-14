@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " Teaching and Supervisors"
+title: " Teaching and Supervision"
 permalink: /teaching/
 author_profile: true
 ---
@@ -39,6 +39,15 @@ Currently, I am a tutor at the School of Mathematics, University of Edinburgh
 	    	Engneering Mathematics (BSc)
 	    </div>
 	</div>
+	<div id="wrapper">
+	    <div id="years">  
+	    	Semester 2 
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Bayesian Data Analysis, Biomedical Data Science, Incomplete Data Analysis(MSc)
+	    </div>
+	</div>		
 <h3><span style="color:rgb(199, 21, 133)"> 2022-2023:</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
