@@ -86,7 +86,10 @@ author_profile: true
 	    	Bayesian Data Analysis, Biomedical Data Science, Incomplete Data Analysis (MSc)
 	    </div>
 	</div>		
-	
+
+## <u>Supervision</u>
+* School of Mathematics, University of Edinburgh (July - August 2022)
+  * Co-supervision of Statistics with Data Science MSc Project 
 	
 	
 		
