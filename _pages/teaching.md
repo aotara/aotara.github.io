@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## <u>Tutoring - School of Mathematics, University of Edinburgh</u>
+## <u>Tutoring </u>
+   * School of Mathematics, University of Edinburgh
 <head>
 <style>
 #wrapper {
