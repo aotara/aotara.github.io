@@ -12,7 +12,7 @@ Collection of invited talks and selected presentations delivered at conferences,
 [T2] **Joint Nature Conservation Committee** [JNCC](http://aotara.github.io/files/JNCC.pdf) (July 2023), Edinburgh<br />
 
 ## <span style="color:rgb(199, 21, 133)">Presentation Talks:</span>
-[T1] **International Statistical Ecology Conference** [ISEC2024](http://aotara.github.io/files/ISEC2024.pdf) (July 2024), Swansea<br />
+[T1] [**International Statistical Ecology Conference**](https://www.bioss.ac.uk/news-events/bioss-international-statistical-ecology-conference-2024) [ISEC2024](http://aotara.github.io/files/ISEC2024.pdf) (July 2024), Swansea<br />
 [T2] **MAC-MIGS CDT Residential Symposium Speed Talk** (May 2024), Edinburgh<br />
 [T3] **Mathematical Biology Research Group Seminar** [MathBio2024](http://aotara.github.io/files/MathBio2024.pdf) (April 2024), Edinburgh<br />
 [T4] **The Scottish Environment Food and Agriculture Research Institute Postgraduate Research Showcase** [SEFARI](http://aotara.github.io/files/SEFARI.pdf) (October 2023), Edinburgh<br />
