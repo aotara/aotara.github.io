@@ -4,7 +4,7 @@ permalink: /collaborators/
 author_profile: true
 ---
 
-## PhD Supervisors
+## <span style="color:rgb(199, 21, 133)">PhD Supervisors</span>
 
 * School of Mathematics, University of Edinburgh
   * [Prof Victor Elvira](https://victorelvira.github.io/index.html)
@@ -18,7 +18,7 @@ author_profile: true
 * School of Mathematics, Heriot-Watt University
   * [Prof Andy White](https://www.macs.hw.ac.uk/~awhite/)
 
-## MSc & Undergraduate Supervisor
+## <span style="color:rgb(199, 21, 133)">MSc & Undergraduate Supervisor</span>
 
 * Department of Statistics, Federal University of Technology, Akure
   * [Dr Ezra Gayawan](https://www.researchgate.net/profile/Ezra-Gayawan)
