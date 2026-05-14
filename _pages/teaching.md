@@ -1,5 +1,6 @@
+---
 layout: archive
-title: ""
+title: " Teaching and Supervisors"
 permalink: /teaching/
 author_profile: true
 ---
