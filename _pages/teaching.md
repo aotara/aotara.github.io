@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Tutoring - School of Mathematics, University of Edinburgh
-
+## <u>Tutoring - School of Mathematics, University of Edinburgh</u>
 <head>
 <style>
 #wrapper {
@@ -30,7 +29,7 @@ author_profile: true
 </style>
 </head>
 <body>	
-<h3><span style="color:rgb(199, 21, 133)"> 2023-2024 :</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> 2023-2024</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	Semester 1
@@ -49,7 +48,7 @@ author_profile: true
 	    	Statistical Computing (MSc)
 	    </div>
 	</div>		
-<h3><span style="color:rgb(199, 21, 133)"> 2022-2023 :</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> 2022-2023</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	Semester 1
@@ -68,7 +67,7 @@ author_profile: true
 	    	Bayesian Data Analysis, Biomedical Data Science, Statistical Computing (MSc)
 	    </div>
 	</div>		
-<h3><span style="color:rgb(199, 21, 133)"> 2021-2022 :</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> 2021-2022</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	Semester 1
