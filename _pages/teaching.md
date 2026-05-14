@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## <u>Supervision</u>
-* School of Mathematics, University of Edinburgh (July - August 2022)
+* School of Mathematics, University of Edinburgh <span style="color:rgb(199, 21, 133)">(July - August 2022)</span>
   * Co-supervision of Statistics with Data Science MSc Project 
 	
 ## <u>Tutoring </u>
