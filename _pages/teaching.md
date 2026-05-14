@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## <u>Supervision</u>
+* School of Mathematics, University of Edinburgh (July - August 2022)
+  * Co-supervision of Statistics with Data Science MSc Project 
+	
 ## <u>Tutoring </u>
    * School of Mathematics, University of Edinburgh
 <head>
@@ -88,9 +92,6 @@ author_profile: true
 	    </div>
 	</div>		
 
-## <u>Supervision</u>
-* School of Mathematics, University of Edinburgh (July - August 2022)
-  * Co-supervision of Statistics with Data Science MSc Project 
-	
+
 	
 		
