@@ -14,7 +14,7 @@ I will join the Department of Earth, Ocean and Ecological Sciences at the Univer
 
 I recently completed a PhD in Statistics jointly at the University of Edinburgh and Heriot-Watt University, in close collaboration with [Biomathematic and Statistics Scotland (BioSS)](https://www.bioss.ac.uk/people/rakeresola).  My PhD focused on animal movement modelling for behavioural and ecological inference and was funded through the EPSRC-supported [MAC-MIGS CDT programme](https://www.mac-migs.ac.uk/people/#students) under the supervision of [Prof Victor Elvira](https://victorelvira.github.io/index.html). 
 
-Prior to my PhD, I completed an MSc in Mathematical Sciences at the [African Institute for Mathematical Sciences (AIMS), Rwanda](https://aims.ac.rw/) under the supervision of [Dr. Gayawan Ezra](https://scholar.google.com/citations?user=p7fuaooAAAAJ&hl=en).
+Prior to my PhD, I completed an MSc in Mathematical Sciences at the [African Institute for Mathematical Sciences (AIMS), Rwanda](https://aims.ac.rw/) under the supervision of [Dr Gayawan Ezra](https://scholar.google.com/citations?user=p7fuaooAAAAJ&hl=en).
 
 
 
