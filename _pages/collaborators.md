@@ -4,6 +4,13 @@ permalink: /collaborators/
 author_profile: true
 ---
 
+## <span style="color:rgb(199, 21, 133)">Postdoctoral Research</span>
+
+* School of Environmental Sciences, University of Liverpool
+  * [Prof Samantha Patrick](https://www.liverpool.ac.uk/people/samantha-patrick)
+  * [Dr Oliver Padget](https://www.liverpool.ac.uk/people/oliver-padget)
+
+
 ## <span style="color:rgb(199, 21, 133)">PhD Supervisors</span>
 
 * School of Mathematics, University of Edinburgh
