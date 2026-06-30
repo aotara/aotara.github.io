@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rebecca Akeresola"
 title_separator          : "-"
 name                     : &name "Rebecca Akeresola"
-description              : &description "PhD Student"
+description              : &description "Postdoctoral Research Associate"
 url                      : https://aotara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aotara.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=E1KepzMAAAAJ"
-  email            : "r.a.akeresola@sms.ed.ac.uk"
+  email            : "Rebecca.Akeresola@liverpool.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
