@@ -28,4 +28,4 @@ author_profile: true
 ## <span style="color:rgb(199, 21, 133)">MSc & Undergraduate Supervisor</span>
 
 * Department of Statistics, Federal University of Technology, Akure
-  * [Dr Ezra Gayawan](https://www.researchgate.net/profile/Ezra-Gayawan)
+  * [Prof Ezra Gayawan](https://www.researchgate.net/profile/Ezra-Gayawan)
