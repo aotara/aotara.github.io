@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a Postdoctoral Research Associate in Seabird Movement and Behaviour at the Department of Earth, Ocean and Ecological Sciences, University of Liverpool. I am part of the [Ecology and Marine Biology Research Group](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/research/research-groups/ecology-and-marine-biology/), working with [Prof Samantha Patrick](https://www.liverpool.ac.uk/people/samantha-patrick) and [Dr Oliver Padget](https://www.liverpool.ac.uk/people/oliver-padget). 
+I am a Postdoctoral Research Associate in Seabird Movement and Behaviour at the Department of Earth, Ocean and Ecological Sciences in the University of Liverpool. I am part of the [Ecology and Marine Biology Research Group](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/research/research-groups/ecology-and-marine-biology/), working with [Prof Samantha Patrick](https://www.liverpool.ac.uk/people/samantha-patrick) and [Dr Oliver Padget](https://www.liverpool.ac.uk/people/oliver-padget). 
 
 I completed a PhD in Statistics jointly at the University of Edinburgh and Heriot-Watt University, in close collaboration with [Biomathematic and Statistics Scotland (BioSS)](https://www.bioss.ac.uk/people/rakeresola).  My PhD focused on animal movement modelling for behavioural and ecological inference and was funded through the EPSRC-supported [MAC-MIGS CDT programme](https://www.mac-migs.ac.uk/people/#students) under the supervision of [Prof Victor Elvira](https://victorelvira.github.io/index.html). 
 
